@@ -1,2 +1,3 @@
 Welcome to Git Session
-Today We are learning to connect local repository with remote repository. 
+Today We are learning to connect local repository with remote repository.
+We are demonstrating merge concept 
