@@ -1,1 +1,2 @@
-Welcome to Git Session 
+Welcome to Git Session
+Today We are learning to connect local repository with remote repository. 
